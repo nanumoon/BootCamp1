@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Ball.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Spwan.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Switch.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/FF/XQQH2DR83MA8FKDF6BLDBQ.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/KO/E67EHDLXI8DZXEGD7Z557T.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_CountBox.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/HudWidget.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/CountWidget.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Hud.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Timer.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/WD/9JRANR43197OH979IE3OWO.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MG/DPRMFUYJ6VUW6HT5YGD6VG.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Call.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Spawn.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Time.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Count.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_Spawner.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_SwitchBox.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MZ/EM2TWGZDX0RHB4JYVK9N52.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/M2/BRL23YTALSJLEKPDMPO6VB.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/NewBlueprint.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/NewBlueprint2.uasset"
+			]
+		}
+	]
+}
