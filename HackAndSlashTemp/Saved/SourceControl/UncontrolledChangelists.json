@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/HackAndSlashTemp/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/BattleWizardPolyart/Animations/ABP_Wizard.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/ABP_Wizard.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_Wizard.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/BattleWizardPolyart/Animations/BS_Wizard.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_Beholder.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_Cactus.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_ChestMonster.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_Mushroom.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_Slime.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_Swarm.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_Warm.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/HackAndSlash/BP_TurtleShell.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Mesh/Polyart/ABS_Beholder.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Mesh/Polyart/BS_Beholder.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Beholder/ABS_Beholder.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Beholder/BS_Beholder.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Mesh/Polyart/BS_Cactus.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Mesh/Polyart/ABP_Cactus.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Cactus/ABP_Cactus.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Cactus/BS_Cactus.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Beholder/ABP_Beholder.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Mesh/Polyart/ABP_ChestMonster.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/ChestMonster/ABP_ChestMonster.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/ChestMonster/BS_ChestMonster.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Mushroom/ABP_Mushroom.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Mushroom/BS_Mushroom.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Slime/ABP_Slime.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Slime/BS_Slime.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Swarm08/ABP_Swarm.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Swarm08/BS_Swarm.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Swarm09/ABP_Warm.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/Swarm09/BS_Warm.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/TurtleShell/ABP_Turtleshell.uasset",
+				"C:/BootCamp1/HackAndSlashTemp/Content/MonsterForSurvivalGame/Animation/Polyart/TurtleShell/BS_Turtleshell.uasset"
+			]
+		}
+	]
+}
